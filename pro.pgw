@@ -1,0 +1,11 @@
+[Application]
+WindowPlacement=2 3 -32000 -32000 -1 -1 341 0 1366 533
+[Editor1]
+FileName=..\YACC\gamb.y
+ReadOnly=0
+WindowPlacement1=0 1 -1 -1 -1 -1 52 52 1206 476
+WindowOrder1=1
+Position001=0 6
+Cursor001=8 8 8 8
+SyntaxColouring=2
+TargetSyntaxColouring=3
